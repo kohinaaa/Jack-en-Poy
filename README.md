@@ -1,0 +1,1 @@
+Jack En Poy Game is a text-based Rock-Paper-Scissors program written in C language. It uses conditional statements, random number generation, and loops to simulate rounds between the player and computer, demonstrating basic game logic and control flow.
